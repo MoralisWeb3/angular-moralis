@@ -1,4 +1,4 @@
-# angular-moralis
-Moralis Angular
+# Moralis Angular
 
-This is work in progress, please dont use yet
+This is work in progress...<br/>
+_Please dont use yet_

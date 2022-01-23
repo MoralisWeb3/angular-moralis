@@ -2,6 +2,7 @@
  * Public API Surface of angular-moralis
  */
 
-export * from './lib/angular-moralis.service';
-export * from './lib/angular-moralis.component';
-export * from './lib/angular-moralis.module';
+export { AngularMoralisModule } from './lib/angular-moralis.module';
+export { AddressComponent } from './lib/components';
+export { MoralisService, NativeService } from './lib/services';
+export { ProviderTypes, User } from './lib/models';
